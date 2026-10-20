@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**gcolonx-rgb/gcolonx-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Gabriel, a cybersecurity student on Long Island 
 
-Here are some ideas to get you started:
+I design different Packet Tracer networks and create my own Python scripts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I achieved these skills with a laptop, Packet Tracer, Kali Linux, and PyCharm
+
+All of my projects that I do are in my pinned projects folder
+
+Currently, trying to come up with 200 projects in total but have only gotten 30 so far, so check weekly to see all the updates!!!
+
+Fun Facts:
+* I am a kickboxer and a BJJ athlete
+* Love to go outside
+* Go camping alot 
